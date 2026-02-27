@@ -121,7 +121,7 @@ STATIC_URL = 'static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
 ]
-STATIC_ROOT='/home/Pranaviganta06/college_website/staticfiles'
+STATIC_ROOT='/home/Pranavi-18/college_website/staticfiles'
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
